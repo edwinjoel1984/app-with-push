@@ -1,0 +1,20 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "phonegap-plugin-push": {
+      "ANDROID_SUPPORT_V13_VERSION": "27.+",
+      "FCM_VERSION": "11.6.2",
+      "PACKAGE_NAME": "com.castillorey.parapapa.profesorTest"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.castillorey.parapapa.profesorTest"
+    }
+  },
+  "dependent_plugins": {}
+}

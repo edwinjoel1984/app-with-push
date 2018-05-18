@@ -1,0 +1,116 @@
+{
+    "project_info": {
+      "project_number": "85561656176",
+      "firebase_url": "https://fir-parapapapp.firebaseio.com",
+      "project_id": "firebase-parapapapp",
+      "storage_bucket": "firebase-parapapapp.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:85561656176:android:45a6befe3a87855e",
+          "android_client_info": {
+            "package_name": "com.castillorey.parapapa.profesor"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "85561656176-s85hgqdp82c19cpogp3rovkkap3hd0ft.apps.googleusercontent.com",
+            "client_type": 3
+          },
+          {
+            "client_id": "85561656176-i0d1kn6vobm77diiff9k817aega261cp.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBNv-CDpDp8cmAbg8m32cqtNgU5UMHXQ2s"
+          }
+        ],
+        "services": {
+          "analytics_service": {
+            "status": 1
+          },
+          "appinvite_service": {
+            "status": 1,
+            "other_platform_oauth_client": []
+          },
+          "ads_service": {
+            "status": 2
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:85561656176:android:a5d7269e82885137",
+          "android_client_info": {
+            "package_name": "com.castillorey.parapapa.profesorTest"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "85561656176-s85hgqdp82c19cpogp3rovkkap3hd0ft.apps.googleusercontent.com",
+            "client_type": 3
+          },
+          {
+            "client_id": "85561656176-i0d1kn6vobm77diiff9k817aega261cp.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBNv-CDpDp8cmAbg8m32cqtNgU5UMHXQ2s"
+          }
+        ],
+        "services": {
+          "analytics_service": {
+            "status": 1
+          },
+          "appinvite_service": {
+            "status": 1,
+            "other_platform_oauth_client": []
+          },
+          "ads_service": {
+            "status": 2
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:85561656176:android:cfa26210ced43a1f",
+          "android_client_info": {
+            "package_name": "com.luefir.parapapapp.padre"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "85561656176-s85hgqdp82c19cpogp3rovkkap3hd0ft.apps.googleusercontent.com",
+            "client_type": 3
+          },
+          {
+            "client_id": "85561656176-i0d1kn6vobm77diiff9k817aega261cp.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBNv-CDpDp8cmAbg8m32cqtNgU5UMHXQ2s"
+          }
+        ],
+        "services": {
+          "analytics_service": {
+            "status": 1
+          },
+          "appinvite_service": {
+            "status": 1,
+            "other_platform_oauth_client": []
+          },
+          "ads_service": {
+            "status": 2
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

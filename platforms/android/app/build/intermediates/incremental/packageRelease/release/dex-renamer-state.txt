@@ -1,0 +1,4 @@
+#Fri May 18 15:41:42 COT 2018
+base.0=/Users/ideadev/Documents/cordova-projects/CastilloProfesor/platforms/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
